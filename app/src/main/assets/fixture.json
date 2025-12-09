@@ -1,0 +1,158 @@
+[
+  {
+    "id": "A",
+    "name": "Grupo A",
+    "teams": ["México", "Sudáfrica", "Corea del Sur", "Repechaje UEFA 4"],
+    "matches": [
+      { "id": "A1", "home": "México", "away": "Sudáfrica", "date": "TBD"},
+      { "id": "A2", "home": "Corea del Sur", "away": "Repechaje UEFA 4","date": "TBD"},
+      { "id": "A3", "home": "México", "away": "Corea del Sur", "date": "TBD"},
+      { "id": "A4", "home": "Sudáfrica", "away": "Repechaje UEFA 4","date": "TBD"},
+      { "id": "A5", "home": "Repechaje UEFA 4", "away": "México", "date": "TBD"},
+      { "id": "A6", "home": "Sudáfrica", "away": "Corea del Sur","date": "TBD"}
+    ]
+  },
+  {
+    "id": "B",
+    "name": "Grupo B",
+    "teams": ["Canadá", "Repechaje UEFA 1", "Catar", "Suiza"],
+    "matches": [
+      { "id": "B1", "home": "Canadá", "away": "Repechaje UEFA 1", "date": "TBD" },
+      { "id": "B2", "home": "Catar", "away": "Suiza", "date": "TBD" },
+      { "id": "B3", "home": "Canadá", "away": "Catar", "date": "TBD" },
+      { "id": "B4", "home": "Repechaje UEFA 1", "away": "Suiza", "date": "TBD" },
+      { "id": "B5", "home": "Suiza", "away": "Canadá", "date": "TBD" },
+      { "id": "B6", "home": "Repechaje UEFA 1", "away": "Catar", "date": "TBD" }
+    ]
+  },
+  {
+    "id": "C",
+    "name": "Grupo C",
+    "teams": ["Brasil", "Marruecos", "Haití", "Escocia"],
+    "matches": [
+      { "id": "C1", "home": "Brasil", "away": "Marruecos", "date": "TBD" },
+      { "id": "C2", "home": "Haití", "away": "Escocia", "date": "TBD" },
+      { "id": "C3", "home": "Brasil", "away": "Haití", "date": "TBD" },
+      { "id": "C4", "home": "Marruecos", "away": "Escocia", "date": "TBD" },
+      { "id": "C5", "home": "Escocia", "away": "Brasil", "date": "TBD" },
+      { "id": "C6", "home": "Marruecos", "away": "Haití", "date": "TBD" }
+    ]
+  },
+  {
+    "id": "D",
+    "name": "Grupo D",
+    "teams": ["Estados Unidos", "Paraguay", "Australia", "Repechaje UEFA 3"],
+    "matches": [
+      { "id": "D1", "home": "Estados Unidos", "away": "Paraguay", "date": "TBD" },
+      { "id": "D2", "home": "Australia", "away": "Repechaje UEFA 3", "date": "TBD" },
+      { "id": "D3", "home": "Estados Unidos", "away": "Australia", "date": "TBD" },
+      { "id": "D4", "home": "Paraguay", "away": "Repechaje UEFA 3", "date": "TBD" },
+      { "id": "D5", "home": "Repechaje UEFA 3", "away": "Estados Unidos", "date": "TBD" },
+      { "id": "D6", "home": "Paraguay", "away": "Australia", "date": "TBD" }
+    ]
+  },
+  {
+    "id": "E",
+    "name": "Grupo E",
+    "teams": ["Alemania", "Costa de Marfil", "Curazao", "Ecuador"],
+    "matches": [
+      { "id": "E1", "home": "Alemania", "away": "Costa de Marfil", "date": "TBD" },
+      { "id": "E2", "home": "Curazao", "away": "Ecuador", "date": "TBD" },
+      { "id": "E3", "home": "Alemania", "away": "Curazao", "date": "TBD" },
+      { "id": "E4", "home": "Costa de Marfil", "away": "Ecuador", "date": "TBD" },
+      { "id": "E5", "home": "Ecuador", "away": "Alemania", "date": "TBD" },
+      { "id": "E6", "home": "Costa de Marfil", "away": "Curazao", "date": "TBD" }
+    ]
+  },
+  {
+    "id": "F",
+    "name": "Grupo F",
+    "teams": ["Países Bajos", "Japón", "Túnez", "Repechaje UEFA 2"],
+    "matches": [
+      { "id": "F1", "home": "Países Bajos", "away": "Japón", "date": "TBD" },
+      { "id": "F2", "home": "Túnez", "away": "Repechaje UEFA 2", "date": "TBD" },
+      { "id": "F3", "home": "Países Bajos", "away": "Túnez", "date": "TBD" },
+      { "id": "F4", "home": "Japón", "away": "Repechaje UEFA 2", "date": "TBD" },
+      { "id": "F5", "home": "Repechaje UEFA 2", "away": "Países Bajos", "date": "TBD" },
+      { "id": "F6", "home": "Japón", "away": "Túnez", "date": "TBD" }
+    ]
+  },
+  {
+    "id": "G",
+    "name": "Grupo G",
+    "teams": ["Bélgica", "Irán", "Egipto", "Nueva Zelanda"],
+    "matches": [
+      { "id": "G1", "home": "Bélgica", "away": "Irán", "date": "TBD" },
+      { "id": "G2", "home": "Egipto", "away": "Nueva Zelanda", "date": "TBD" },
+      { "id": "G3", "home": "Bélgica", "away": "Egipto", "date": "TBD" },
+      { "id": "G4", "home": "Irán", "away": "Nueva Zelanda", "date": "TBD" },
+      { "id": "G5", "home": "Nueva Zelanda", "away": "Bélgica", "date": "TBD" },
+      { "id": "G6", "home": "Irán", "away": "Egipto", "date": "TBD" }
+    ]
+  },
+  {
+    "id": "H",
+    "name": "Grupo H",
+    "teams": ["España", "Uruguay", "Cabo Verde", "Arabia Saudita"],
+    "matches": [
+      { "id": "H1", "home": "España", "away": "Uruguay", "date": "TBD" },
+      { "id": "H2", "home": "Cabo Verde", "away": "Arabia Saudita", "date": "TBD" },
+      { "id": "H3", "home": "España", "away": "Cabo Verde", "date": "TBD" },
+      { "id": "H4", "home": "Uruguay", "away": "Arabia Saudita", "date": "TBD" },
+      { "id": "H5", "home": "Arabia Saudita", "away": "España", "date": "TBD" },
+      { "id": "H6", "home": "Uruguay", "away": "Cabo Verde", "date": "TBD" }
+    ]
+  },
+  {
+    "id": "I",
+    "name": "Grupo I",
+    "teams": ["Francia", "Senegal", "Noruega", "Repechaje Intercontinental 1"],
+    "matches": [
+      { "id": "I1", "home": "Francia", "away": "Senegal", "date": "TBD" },
+      { "id": "I2", "home": "Noruega", "away": "Repechaje Intercontinental 1", "date": "TBD" },
+      { "id": "I3", "home": "Francia", "away": "Noruega", "date": "TBD" },
+      { "id": "I4", "home": "Senegal", "away": "Repechaje Intercontinental 1", "date": "TBD" },
+      { "id": "I5", "home": "Repechaje Intercontinental 1", "away": "Francia", "date": "TBD" },
+      { "id": "I6", "home": "Noruega", "away": "Senegal", "date": "TBD" }
+    ]
+  },
+  {
+    "id": "J",
+    "name": "Grupo J",
+    "teams": ["Argentina", "Argelia", "Austria", "Jordania"],
+    "matches": [
+      { "id": "J1", "home": "Argentina", "away": "Argelia", "date": "TBD" },
+      { "id": "J2", "home": "Austria", "away": "Jordania", "date": "TBD" },
+      { "id": "J3", "home": "Argentina", "away": "Austria", "date": "TBD" },
+      { "id": "J4", "home": "Argelia", "away": "Jordania", "date": "TBD" },
+      { "id": "J5", "home": "Jordania", "away": "Argentina", "date": "TBD" },
+      { "id": "J6", "home": "Argelia", "away": "Austria", "date": "TBD" }
+    ]
+  },
+  {
+    "id": "K",
+    "name": "Grupo K",
+    "teams": ["Portugal", "Colombia", "Uzbekistán", "Repechaje Intercontinental 2"],
+    "matches": [
+      { "id": "K1", "home": "Portugal", "away": "Colombia", "date": "TBD" },
+      { "id": "K2", "home": "Uzbekistán", "away": "Repechaje Intercontinental 2", "date": "TBD" },
+      { "id": "K3", "home": "Portugal", "away": "Uzbekistán", "date": "TBD" },
+      { "id": "K4", "home": "Colombia", "away": "Repechaje Intercontinental 2", "date": "TBD" },
+      { "id": "K5", "home": "Repechaje Intercontinental 2", "away": "Portugal", "date": "TBD" },
+      { "id": "K6", "home": "Colombia", "away": "Uzbekistán", "date": "TBD" }
+    ]
+  },
+  {
+    "id": "L",
+    "name": "Grupo L",
+    "teams": ["Inglaterra", "Croacia", "Ghana", "Panamá"],
+    "matches": [
+      { "id": "L1", "home": "Inglaterra", "away": "Croacia", "date": "TBD" },
+      { "id": "L2", "home": "Ghana", "away": "Panamá", "date": "TBD" },
+      { "id": "L3", "home": "Inglaterra", "away": "Ghana", "date": "TBD" },
+      { "id": "L4", "home": "Croacia", "away": "Panamá", "date": "TBD" },
+      { "id": "L5", "home": "Panamá", "away": "Inglaterra", "date": "TBD" },
+      { "id": "L6", "home": "Croacia", "away": "Ghana", "date": "TBD" }
+    ]
+  }
+]
