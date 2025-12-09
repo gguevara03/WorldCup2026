@@ -1,4 +1,4 @@
-WorldCup
+WorldCup  GINO GUEVARA
 
 La aplicación WorldCup tiene algunos errores que deben ser corregidos:
 
